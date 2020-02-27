@@ -1,21 +1,14 @@
-# newProject
-React native Skeleton which includes Navigation and Redux
+# Ecommerce
+React native Skeleton which includes Navigation and Context
 
 
-1. git clone https://github.com/sumedhtare/newProject.git "FolderName"
-2. npx react-native-rename "FolderName"
-3. npm install
-4. react-native link react-native-vector-icons
-5. cd ios
-6. pod install
+1. git clone https://github.com/sumedhtare/Ecommerce.git
+2. npm install
+3. react-native link react-native-vector-icons (Optional if icons not visible)
+4. cd ios
+5. pod install
 
-To rename App in Android
+Home Page contains example of hooks (functional component) and navigation 
+Product details page contains demonstration of context
 
-navigate to android/app/src/res/values/strings.xml
-and change your app name
-
-
-To rename App in iOS
-
-Open your project in xcode 
-and open Info.plist and change Bundle display name
+Thank you
