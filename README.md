@@ -8,7 +8,7 @@ React native Skeleton which includes Navigation and Context
 4. cd ios
 5. pod install
 
-Home Page contains example of hooks (functional component) and navigation 
+Home Page contains example of hooks (functional component) and navigation. 
 Product details page contains demonstration of context
 
 Thank you
